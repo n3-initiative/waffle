@@ -53,17 +53,17 @@ install_fa_fonts <- function() {
 
 #' Font Awesome 5 Solid
 #'
-#' @description `fa5_solid` is shorthand for "`FontAwesome5Free-Solid`"
+#' @description `fa5_solid` is shorthand for "`FontAwesome6Free-Solid`"
 #' @docType data
 #' @export
-fa5_solid <- "FontAwesome5Free-Solid"
+fa5_solid <- "FontAwesome6Free-Solid"
 
 #' Font Awesome 5 Brand
 #'
-#' @description `fa5_brand` is shorthand for "`FontAwesome5Brands-Regular`"
+#' @description `fa5_brand` is shorthand for "`FontAwesome6Brands-Regular`"
 #' @docType data
 #' @export
-fa5_brand <- "FontAwesome5Brands-Regular"
+fa5_brand <- "FontAwesome6Brands-Regular"
 
 
 

@@ -1,7 +1,7 @@
 Package: waffle
 Type: Package
 Title: Create Waffle Chart Visualizations
-Version: 1.0.1
+Version: 1.0.2
 Date: 2019-07-07
 Authors@R: c(
     person("Bob", "Rudis", email = "bob@rud.is", role = c("aut", "cre"), 

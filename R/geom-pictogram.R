@@ -132,7 +132,7 @@ GeomPictogram <- ggplot2::ggproto(
   default_aes = aes(
     fill = NA, alpha = NA, colour = "black",
     size = 9, angle = 0, hjust = 0.5, vjust = 0.5,
-    family = "FontAwesome5Free-Solid", fontface = 1, lineheight = 1
+    family = "FontAwesome6Free-Solid", fontface = 1, lineheight = 1
   ),
 
 

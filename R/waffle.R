@@ -89,7 +89,7 @@ waffle <- function(parts, rows=10, keep=TRUE, xlab=NULL, title=NULL, colors=NA,
                    use_glyph = FALSE,
                    glyph_size = 12,
                    glyph_font = "Font Awesome 5 Free Solid",
-                   glyph_font_family = "FontAwesome5Free-Solid",
+                   glyph_font_family = "FontAwesome6Free-Solid",
                    legend_pos = "right") {
 
   if (inherits(parts, "data.frame")) {
